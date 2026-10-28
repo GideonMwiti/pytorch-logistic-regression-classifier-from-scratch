@@ -129,3 +129,4 @@ Console logs will stream epoch-by-epoch loss convergence, classification metrics
 
 ## ⏭️ Next Up in the 100 Projects Series
 - **Project 03**: Multi-Layer Perceptron (MLP) from Scratch (Non-Linear XOR Classification & Backpropagation)
+
